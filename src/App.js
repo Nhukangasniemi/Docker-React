@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn To Love and Peace
+          I was changed
         </a>
       </header>
     </div>
